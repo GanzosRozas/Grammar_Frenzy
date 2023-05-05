@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grammar Frenzy", "Grammar Frenzy.csproj", "{8158295F-73A8-47AB-A063-E86543C9E2B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8158295F-73A8-47AB-A063-E86543C9E2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8158295F-73A8-47AB-A063-E86543C9E2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8158295F-73A8-47AB-A063-E86543C9E2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8158295F-73A8-47AB-A063-E86543C9E2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043570F5-CB90-44E5-8332-9E03A906A1C7}
+	EndGlobalSection
+EndGlobal
