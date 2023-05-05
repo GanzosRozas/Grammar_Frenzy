@@ -1,0 +1,13 @@
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\bin\Debug\Grammar Frenzy.exe.config
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\bin\Debug\Grammar Frenzy.exe
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\bin\Debug\Grammar Frenzy.pdb
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\bin\Debug\MaterialSkin.dll
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.csproj.AssemblyReference.cache
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar_Frenzy.Form1.resources
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar_Frenzy.Properties.Resources.resources
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.csproj.GenerateResource.cache
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.csproj.CoreCompileInputs.cache
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.csproj.CopyComplete
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.exe
+C:\Users\SKU-81583\Desktop\Grammar Frenzy\Grammar_Frenzy\Grammar Frenzy\obj\Debug\Grammar Frenzy.pdb
